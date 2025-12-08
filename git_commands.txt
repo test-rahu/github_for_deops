@@ -1,0 +1,31 @@
+   2 git status
+   3 java testing.java
+   4 pyton testing.py
+   5 git status
+   6 git add testing.py
+   7 git status
+   8 git rm --cached testing.py
+   9 git status
+  10 git add testing.py
+  11 git status
+  12 git add test.py
+  13 git commit -m "my 1st commit"
+  14 git add test.py
+  15 git status
+  16 git status
+  17 git status
+  18 git add testing.py
+  19 git status
+  20 git commit -m "my seconf commit"
+  21 git status
+  22 git status
+  23 ls
+  24 rm testing.py
+  25 ls
+  26 git status
+  27 git restore testing.py
+  28 ls
+  29 git status
+  30 git history
+
+  adding one new line
